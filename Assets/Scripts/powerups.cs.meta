@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b12df76f85e96b44787444ab250e7117
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - footBall: {instanceID: 0}
+  - pickupParticle: {fileID: 495534802821518327, guid: 9d5433b98beb7e74e88b2c71a0246a02, type: 3}
+  - scoreOnGUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

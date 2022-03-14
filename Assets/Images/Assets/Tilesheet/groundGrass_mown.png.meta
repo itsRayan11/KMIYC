@@ -1,0 +1,6972 @@
+fileFormatVersion: 2
+guid: f637330f914c60840bfb660e9e2d502e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5153544804481959501
+    second: groundGrass_mown_0
+  - first:
+      213: -5233603960042178900
+    second: groundGrass_mown_1
+  - first:
+      213: 9892055883037088
+    second: groundGrass_mown_2
+  - first:
+      213: -8372346091105672512
+    second: groundGrass_mown_3
+  - first:
+      213: 2110567587740916049
+    second: groundGrass_mown_4
+  - first:
+      213: 4964240670493287312
+    second: groundGrass_mown_5
+  - first:
+      213: -7960755784868938552
+    second: groundGrass_mown_6
+  - first:
+      213: 5283221142331427938
+    second: groundGrass_mown_7
+  - first:
+      213: 5059977971260271919
+    second: groundGrass_mown_8
+  - first:
+      213: -4073068258711892244
+    second: groundGrass_mown_9
+  - first:
+      213: 5118573133429181812
+    second: groundGrass_mown_10
+  - first:
+      213: 7115813395136999182
+    second: groundGrass_mown_11
+  - first:
+      213: 5207825157298192144
+    second: groundGrass_mown_12
+  - first:
+      213: -8428159547890446506
+    second: groundGrass_mown_13
+  - first:
+      213: -8863321681165869892
+    second: groundGrass_mown_14
+  - first:
+      213: -7444903031116237003
+    second: groundGrass_mown_15
+  - first:
+      213: 6329275105770489118
+    second: groundGrass_mown_16
+  - first:
+      213: -8080666062711837869
+    second: groundGrass_mown_17
+  - first:
+      213: -2386571142483140767
+    second: groundGrass_mown_18
+  - first:
+      213: -3995018073019012745
+    second: groundGrass_mown_19
+  - first:
+      213: 3287810829712258908
+    second: groundGrass_mown_20
+  - first:
+      213: 7882658302342131914
+    second: groundGrass_mown_21
+  - first:
+      213: 3751173737500019291
+    second: groundGrass_mown_22
+  - first:
+      213: 7476308549315469674
+    second: groundGrass_mown_23
+  - first:
+      213: -7945546438355333386
+    second: groundGrass_mown_24
+  - first:
+      213: 2762518532003576218
+    second: groundGrass_mown_25
+  - first:
+      213: 3557808202235754823
+    second: groundGrass_mown_26
+  - first:
+      213: 5689169628977539659
+    second: groundGrass_mown_27
+  - first:
+      213: 1541616465267347321
+    second: groundGrass_mown_28
+  - first:
+      213: 377794242825218324
+    second: groundGrass_mown_29
+  - first:
+      213: 1661513012183233517
+    second: groundGrass_mown_30
+  - first:
+      213: -8480854038374926538
+    second: groundGrass_mown_31
+  - first:
+      213: -5241252520041490625
+    second: groundGrass_mown_32
+  - first:
+      213: -44393401518334068
+    second: groundGrass_mown_33
+  - first:
+      213: -7333235849393420243
+    second: groundGrass_mown_34
+  - first:
+      213: 2860398280693624654
+    second: groundGrass_mown_35
+  - first:
+      213: 8370781927034606600
+    second: groundGrass_mown_36
+  - first:
+      213: -6685551684525234779
+    second: groundGrass_mown_37
+  - first:
+      213: 2875703639178144876
+    second: groundGrass_mown_38
+  - first:
+      213: 4862604969026098797
+    second: groundGrass_mown_39
+  - first:
+      213: 7674883034430282761
+    second: groundGrass_mown_40
+  - first:
+      213: 1402491248563136334
+    second: groundGrass_mown_41
+  - first:
+      213: -6038135856028452027
+    second: groundGrass_mown_42
+  - first:
+      213: 7811830411717670011
+    second: groundGrass_mown_43
+  - first:
+      213: 3343170654896388771
+    second: groundGrass_mown_44
+  - first:
+      213: -2018400694587105970
+    second: groundGrass_mown_45
+  - first:
+      213: -3745579996438857946
+    second: groundGrass_mown_46
+  - first:
+      213: 7924372635228684315
+    second: groundGrass_mown_47
+  - first:
+      213: 5388175695510615466
+    second: groundGrass_mown_48
+  - first:
+      213: 3565537523040527958
+    second: groundGrass_mown_49
+  - first:
+      213: -3148134185312633126
+    second: groundGrass_mown_50
+  - first:
+      213: -1623715487188206072
+    second: groundGrass_mown_51
+  - first:
+      213: -5755544285136146206
+    second: groundGrass_mown_52
+  - first:
+      213: -8419647486443031227
+    second: groundGrass_mown_53
+  - first:
+      213: 7327549366188577442
+    second: groundGrass_mown_54
+  - first:
+      213: 8029030896901300076
+    second: groundGrass_mown_55
+  - first:
+      213: -2474131125334662810
+    second: groundGrass_mown_56
+  - first:
+      213: 7335167346555336035
+    second: groundGrass_mown_57
+  - first:
+      213: -7869899139564308410
+    second: groundGrass_mown_58
+  - first:
+      213: -1790405146425668273
+    second: groundGrass_mown_59
+  - first:
+      213: -3599316733443287830
+    second: groundGrass_mown_60
+  - first:
+      213: -9075469525977604956
+    second: groundGrass_mown_61
+  - first:
+      213: -8183651363510963288
+    second: groundGrass_mown_62
+  - first:
+      213: -3388892026187435635
+    second: groundGrass_mown_63
+  - first:
+      213: -8077824420986958923
+    second: groundGrass_mown_64
+  - first:
+      213: -2251096058219233046
+    second: groundGrass_mown_65
+  - first:
+      213: -5049293707004117142
+    second: groundGrass_mown_66
+  - first:
+      213: -436361102856596892
+    second: groundGrass_mown_67
+  - first:
+      213: -8558620547028246020
+    second: groundGrass_mown_68
+  - first:
+      213: -6462102616806702959
+    second: groundGrass_mown_69
+  - first:
+      213: -5644375663838011515
+    second: groundGrass_mown_70
+  - first:
+      213: 1997760550413630792
+    second: groundGrass_mown_71
+  - first:
+      213: 3567360706135137476
+    second: groundGrass_mown_72
+  - first:
+      213: 2881282039622503007
+    second: groundGrass_mown_73
+  - first:
+      213: -8244764592798999442
+    second: groundGrass_mown_74
+  - first:
+      213: 3474148445470011260
+    second: groundGrass_mown_75
+  - first:
+      213: 5845957734355677414
+    second: groundGrass_mown_76
+  - first:
+      213: -1617433798525836932
+    second: groundGrass_mown_77
+  - first:
+      213: -7668916908598419969
+    second: groundGrass_mown_78
+  - first:
+      213: 8504424260274629732
+    second: groundGrass_mown_79
+  - first:
+      213: 2827572068442288823
+    second: groundGrass_mown_80
+  - first:
+      213: -8064208273484772633
+    second: groundGrass_mown_81
+  - first:
+      213: -5782541693277274214
+    second: groundGrass_mown_82
+  - first:
+      213: 888719044582564349
+    second: groundGrass_mown_83
+  - first:
+      213: -8065003145414655167
+    second: groundGrass_mown_84
+  - first:
+      213: -179953092568436511
+    second: groundGrass_mown_85
+  - first:
+      213: 5120210050978316420
+    second: groundGrass_mown_86
+  - first:
+      213: -6017915152374217879
+    second: groundGrass_mown_87
+  - first:
+      213: 3125492457124040692
+    second: groundGrass_mown_88
+  - first:
+      213: -7442215180359531477
+    second: groundGrass_mown_89
+  - first:
+      213: -5910795142327495711
+    second: groundGrass_mown_90
+  - first:
+      213: -1866513022957073961
+    second: groundGrass_mown_91
+  - first:
+      213: 2359772770941526875
+    second: groundGrass_mown_92
+  - first:
+      213: -3886804772557088617
+    second: groundGrass_mown_93
+  - first:
+      213: 1561529893073237795
+    second: groundGrass_mown_94
+  - first:
+      213: -3336961388434580260
+    second: groundGrass_mown_95
+  - first:
+      213: -6009146311834256675
+    second: groundGrass_mown_96
+  - first:
+      213: -8055514460791376163
+    second: groundGrass_mown_97
+  - first:
+      213: 2535346797647846581
+    second: groundGrass_mown_98
+  - first:
+      213: -4620165041856130257
+    second: groundGrass_mown_99
+  - first:
+      213: 3017040256242081973
+    second: groundGrass_mown_100
+  - first:
+      213: 4365845241803447395
+    second: groundGrass_mown_101
+  - first:
+      213: 5619483436407588510
+    second: groundGrass_mown_102
+  - first:
+      213: 7709475779730284690
+    second: groundGrass_mown_103
+  - first:
+      213: 2418023432720265849
+    second: groundGrass_mown_104
+  - first:
+      213: 1601777083772515665
+    second: groundGrass_mown_105
+  - first:
+      213: 8210098528206495932
+    second: groundGrass_mown_106
+  - first:
+      213: 2258145871965491293
+    second: groundGrass_mown_107
+  - first:
+      213: -9128105714670869884
+    second: groundGrass_mown_108
+  - first:
+      213: 1483244184334055522
+    second: groundGrass_mown_109
+  - first:
+      213: -7350011977038818841
+    second: groundGrass_mown_110
+  - first:
+      213: 734804305146522739
+    second: groundGrass_mown_111
+  - first:
+      213: -1665541535066122028
+    second: groundGrass_mown_112
+  - first:
+      213: -2630419925935397316
+    second: groundGrass_mown_113
+  - first:
+      213: -4405321196026317607
+    second: groundGrass_mown_114
+  - first:
+      213: -7836310372044370382
+    second: groundGrass_mown_115
+  - first:
+      213: -1733490100054963033
+    second: groundGrass_mown_116
+  - first:
+      213: -798937112769893950
+    second: groundGrass_mown_117
+  - first:
+      213: -1494029019412899150
+    second: groundGrass_mown_118
+  - first:
+      213: 1397150034871951886
+    second: groundGrass_mown_119
+  - first:
+      213: -5005400167791337134
+    second: groundGrass_mown_120
+  - first:
+      213: -4738774237098804916
+    second: groundGrass_mown_121
+  - first:
+      213: 6372256528633493438
+    second: groundGrass_mown_122
+  - first:
+      213: -962569050915997466
+    second: groundGrass_mown_123
+  - first:
+      213: -7711301544747074192
+    second: groundGrass_mown_124
+  - first:
+      213: 2012083441544049516
+    second: groundGrass_mown_125
+  - first:
+      213: -4425862200735261425
+    second: groundGrass_mown_126
+  - first:
+      213: 6015365321879272469
+    second: groundGrass_mown_127
+  - first:
+      213: -5569318261532309786
+    second: groundGrass_mown_128
+  - first:
+      213: -7037736881035467295
+    second: groundGrass_mown_129
+  - first:
+      213: 420455898698670355
+    second: groundGrass_mown_130
+  - first:
+      213: 605550383432804554
+    second: groundGrass_mown_131
+  - first:
+      213: -5793574504358628794
+    second: groundGrass_mown_132
+  - first:
+      213: 7265731295201903565
+    second: groundGrass_mown_133
+  - first:
+      213: 6407931569400454542
+    second: groundGrass_mown_134
+  - first:
+      213: -6831421120583170345
+    second: groundGrass_mown_135
+  - first:
+      213: -2256316721049515146
+    second: groundGrass_mown_136
+  - first:
+      213: -7672231827905044560
+    second: groundGrass_mown_137
+  - first:
+      213: -2983354582274752552
+    second: groundGrass_mown_138
+  - first:
+      213: 201964913117603664
+    second: groundGrass_mown_139
+  - first:
+      213: 2975325759524059882
+    second: groundGrass_mown_140
+  - first:
+      213: 9034451232790652392
+    second: groundGrass_mown_141
+  - first:
+      213: 4490405036564010942
+    second: groundGrass_mown_142
+  - first:
+      213: -5077256848299994141
+    second: groundGrass_mown_143
+  - first:
+      213: -1746699494306432860
+    second: groundGrass_mown_144
+  - first:
+      213: 6101934557303521677
+    second: groundGrass_mown_145
+  - first:
+      213: -4019536694033017996
+    second: groundGrass_mown_146
+  - first:
+      213: 8293201760118938461
+    second: groundGrass_mown_147
+  - first:
+      213: -3181930744893430390
+    second: groundGrass_mown_148
+  - first:
+      213: 2469771242346436084
+    second: groundGrass_mown_149
+  - first:
+      213: 4644101217101341081
+    second: groundGrass_mown_150
+  - first:
+      213: -6484244506708533104
+    second: groundGrass_mown_151
+  - first:
+      213: 4254253631895828197
+    second: groundGrass_mown_152
+  - first:
+      213: 2298669558018016522
+    second: groundGrass_mown_153
+  - first:
+      213: -6418055790354084821
+    second: groundGrass_mown_154
+  - first:
+      213: 622752216848669098
+    second: groundGrass_mown_155
+  - first:
+      213: 7075428784966533539
+    second: groundGrass_mown_156
+  - first:
+      213: -1811958973446750435
+    second: groundGrass_mown_157
+  - first:
+      213: -1495800816565264387
+    second: groundGrass_mown_158
+  - first:
+      213: -407502103171425750
+    second: groundGrass_mown_159
+  - first:
+      213: -534911633523521248
+    second: groundGrass_mown_160
+  - first:
+      213: -1738525102518280853
+    second: groundGrass_mown_161
+  - first:
+      213: -6586622849818679949
+    second: groundGrass_mown_162
+  - first:
+      213: 2483850720203338565
+    second: groundGrass_mown_163
+  - first:
+      213: 7276088514032089378
+    second: groundGrass_mown_164
+  - first:
+      213: 4885663466967575128
+    second: groundGrass_mown_165
+  - first:
+      213: -6399633110946523147
+    second: groundGrass_mown_166
+  - first:
+      213: -8386690038399902928
+    second: groundGrass_mown_167
+  - first:
+      213: 392193467560263470
+    second: groundGrass_mown_168
+  - first:
+      213: 4100028237435658446
+    second: groundGrass_mown_169
+  - first:
+      213: -9004889789579269943
+    second: groundGrass_mown_170
+  - first:
+      213: 307184282647134461
+    second: groundGrass_mown_171
+  - first:
+      213: 4240670960935661443
+    second: groundGrass_mown_172
+  - first:
+      213: 1094514465481363465
+    second: groundGrass_mown_173
+  - first:
+      213: -5193604544011005036
+    second: groundGrass_mown_174
+  - first:
+      213: 595450878972666506
+    second: groundGrass_mown_175
+  - first:
+      213: 7647195349372800654
+    second: groundGrass_mown_176
+  - first:
+      213: -268258513137887425
+    second: groundGrass_mown_177
+  - first:
+      213: -3300986516713552193
+    second: groundGrass_mown_178
+  - first:
+      213: -7764745845338493541
+    second: groundGrass_mown_179
+  - first:
+      213: -2267903037672474675
+    second: groundGrass_mown_180
+  - first:
+      213: 2723863380508742492
+    second: groundGrass_mown_181
+  - first:
+      213: 305180928155818040
+    second: groundGrass_mown_182
+  - first:
+      213: -1272657472068235318
+    second: groundGrass_mown_183
+  - first:
+      213: -4108786102705571094
+    second: groundGrass_mown_184
+  - first:
+      213: 6948222445914283998
+    second: groundGrass_mown_185
+  - first:
+      213: -2153020184731708261
+    second: groundGrass_mown_186
+  - first:
+      213: 7036474365999232778
+    second: groundGrass_mown_187
+  - first:
+      213: -7163915024966872074
+    second: groundGrass_mown_188
+  - first:
+      213: 2938073213370428806
+    second: groundGrass_mown_189
+  - first:
+      213: 284003939550824909
+    second: groundGrass_mown_190
+  - first:
+      213: -205026847742603247
+    second: groundGrass_mown_191
+  - first:
+      213: -7722123248740285134
+    second: groundGrass_mown_192
+  - first:
+      213: -8120379103145999716
+    second: groundGrass_mown_193
+  - first:
+      213: 1596950379192025897
+    second: groundGrass_mown_194
+  - first:
+      213: 6958797070016310226
+    second: groundGrass_mown_195
+  - first:
+      213: -8148021769243061800
+    second: groundGrass_mown_196
+  - first:
+      213: -8201963816080298832
+    second: groundGrass_mown_197
+  - first:
+      213: -6070118024685406963
+    second: groundGrass_mown_198
+  - first:
+      213: -1217189271201074904
+    second: groundGrass_mown_199
+  - first:
+      213: 3935437522279438611
+    second: groundGrass_mown_200
+  - first:
+      213: 2459631595806064950
+    second: groundGrass_mown_201
+  - first:
+      213: 6636500111811382120
+    second: groundGrass_mown_202
+  - first:
+      213: -4530343366573370980
+    second: groundGrass_mown_203
+  - first:
+      213: -2002370052496833048
+    second: groundGrass_mown_204
+  - first:
+      213: 4179524928700599093
+    second: groundGrass_mown_205
+  - first:
+      213: -2010233338084919668
+    second: groundGrass_mown_206
+  - first:
+      213: -9000052766788077612
+    second: groundGrass_mown_207
+  - first:
+      213: 2385125566568220757
+    second: groundGrass_mown_208
+  - first:
+      213: 4123035974117513102
+    second: groundGrass_mown_209
+  - first:
+      213: 311998077998587020
+    second: groundGrass_mown_210
+  - first:
+      213: 921292551520542904
+    second: groundGrass_mown_211
+  - first:
+      213: 6362829314562781436
+    second: groundGrass_mown_212
+  - first:
+      213: -2209911580069966325
+    second: groundGrass_mown_213
+  - first:
+      213: -7434161198332495205
+    second: groundGrass_mown_214
+  - first:
+      213: 7507851110761797662
+    second: groundGrass_mown_215
+  - first:
+      213: -6825514372393356943
+    second: groundGrass_mown_216
+  - first:
+      213: -3919931718893552567
+    second: groundGrass_mown_217
+  - first:
+      213: -4198709662008192346
+    second: groundGrass_mown_218
+  - first:
+      213: 7813232138112294868
+    second: groundGrass_mown_219
+  - first:
+      213: 7215546474372634909
+    second: groundGrass_mown_220
+  - first:
+      213: 1036930823888470569
+    second: groundGrass_mown_221
+  - first:
+      213: 7766236380846697515
+    second: groundGrass_mown_222
+  - first:
+      213: 3508025798002726284
+    second: groundGrass_mown_223
+  - first:
+      213: 5502459465790201507
+    second: groundGrass_mown_224
+  - first:
+      213: 4793739120312869629
+    second: groundGrass_mown_225
+  - first:
+      213: -6683196024627875526
+    second: groundGrass_mown_226
+  - first:
+      213: 5358672179357661299
+    second: groundGrass_mown_227
+  - first:
+      213: 2736813296525270626
+    second: groundGrass_mown_228
+  - first:
+      213: -7144533489790799830
+    second: groundGrass_mown_229
+  - first:
+      213: -1897974081602761518
+    second: groundGrass_mown_230
+  - first:
+      213: 3598333153513154682
+    second: groundGrass_mown_231
+  - first:
+      213: 8481591008045262646
+    second: groundGrass_mown_232
+  - first:
+      213: 679573035996455101
+    second: groundGrass_mown_233
+  - first:
+      213: -1338847119543797700
+    second: groundGrass_mown_234
+  - first:
+      213: 4211213408740751695
+    second: groundGrass_mown_235
+  - first:
+      213: -1057580300448992866
+    second: groundGrass_mown_236
+  - first:
+      213: -4818488132511267553
+    second: groundGrass_mown_237
+  - first:
+      213: -4814503140267103178
+    second: groundGrass_mown_238
+  - first:
+      213: -3326432707089617317
+    second: groundGrass_mown_239
+  - first:
+      213: 7411898067469083649
+    second: groundGrass_mown_240
+  - first:
+      213: -5525937193531811435
+    second: groundGrass_mown_241
+  - first:
+      213: 671402845538667501
+    second: groundGrass_mown_242
+  - first:
+      213: -3170525815817080726
+    second: groundGrass_mown_243
+  - first:
+      213: 8116069942564710752
+    second: groundGrass_mown_244
+  - first:
+      213: 4593251876929017040
+    second: groundGrass_mown_245
+  - first:
+      213: -2815851579964939157
+    second: groundGrass_mown_246
+  - first:
+      213: 4711161268056624724
+    second: groundGrass_mown_247
+  - first:
+      213: 905585488483833651
+    second: groundGrass_mown_248
+  - first:
+      213: 7835250719351389717
+    second: groundGrass_mown_249
+  - first:
+      213: 3827838118317691464
+    second: groundGrass_mown_250
+  - first:
+      213: -8958692489194928400
+    second: groundGrass_mown_251
+  - first:
+      213: -3568278879515398395
+    second: groundGrass_mown_252
+  - first:
+      213: 8317199620008606841
+    second: groundGrass_mown_253
+  - first:
+      213: -2761794482272998487
+    second: groundGrass_mown_254
+  - first:
+      213: -5147691843568642021
+    second: groundGrass_mown_255
+  - first:
+      213: 8970108495357008113
+    second: groundGrass_mown_256
+  - first:
+      213: -1200999872167828075
+    second: groundGrass_mown_257
+  - first:
+      213: -5236734819750580460
+    second: groundGrass_mown_258
+  - first:
+      213: 1531979107557400717
+    second: groundGrass_mown_259
+  - first:
+      213: -2165508859120063488
+    second: groundGrass_mown_260
+  - first:
+      213: -5448555775047588415
+    second: groundGrass_mown_261
+  - first:
+      213: -756380215238644656
+    second: groundGrass_mown_262
+  - first:
+      213: 2585075009446293001
+    second: groundGrass_mown_263
+  - first:
+      213: 3940449936962391555
+    second: groundGrass_mown_264
+  - first:
+      213: 3694138196988063869
+    second: groundGrass_mown_265
+  - first:
+      213: -3478266459820447821
+    second: groundGrass_mown_266
+  - first:
+      213: -2288698464583863243
+    second: groundGrass_mown_267
+  - first:
+      213: -1297249331025908485
+    second: groundGrass_mown_268
+  - first:
+      213: 7401659748745844810
+    second: groundGrass_mown_269
+  - first:
+      213: -169326974828049900
+    second: groundGrass_mown_270
+  - first:
+      213: 8979140663595403688
+    second: groundGrass_mown_271
+  - first:
+      213: 2315885967066792214
+    second: groundGrass_mown_272
+  - first:
+      213: 5054758954582490589
+    second: groundGrass_mown_273
+  - first:
+      213: -1784241618480545626
+    second: groundGrass_mown_274
+  - first:
+      213: -2537419807477478516
+    second: groundGrass_mown_275
+  - first:
+      213: 2320831404118298913
+    second: groundGrass_mown_276
+  - first:
+      213: 3382591721831062197
+    second: groundGrass_mown_277
+  - first:
+      213: -4152125318315164446
+    second: groundGrass_mown_278
+  - first:
+      213: -8551816446358631438
+    second: groundGrass_mown_279
+  - first:
+      213: -3729396128413895042
+    second: groundGrass_mown_280
+  - first:
+      213: 7289847165092626798
+    second: groundGrass_mown_281
+  - first:
+      213: 5807163625843993932
+    second: groundGrass_mown_282
+  - first:
+      213: 6648296358329048979
+    second: groundGrass_mown_283
+  - first:
+      213: 760374401325202337
+    second: groundGrass_mown_284
+  - first:
+      213: 5612888832430777950
+    second: groundGrass_mown_285
+  - first:
+      213: 3404854169916466295
+    second: groundGrass_mown_286
+  - first:
+      213: -8197811113325731256
+    second: groundGrass_mown_287
+  - first:
+      213: 4583709862627103113
+    second: groundGrass_mown_288
+  - first:
+      213: -1057164241720957613
+    second: groundGrass_mown_289
+  - first:
+      213: -4899996064349594175
+    second: groundGrass_mown_290
+  - first:
+      213: -174064374044278719
+    second: groundGrass_mown_291
+  - first:
+      213: 9063565094255662157
+    second: groundGrass_mown_292
+  - first:
+      213: -142166699167570212
+    second: groundGrass_mown_293
+  - first:
+      213: 8409131114855787350
+    second: groundGrass_mown_294
+  - first:
+      213: 9065075939340110346
+    second: groundGrass_mown_295
+  - first:
+      213: 6740387857050089140
+    second: groundGrass_mown_296
+  - first:
+      213: -154785917866911257
+    second: groundGrass_mown_297
+  - first:
+      213: 3993145887161209591
+    second: groundGrass_mown_298
+  - first:
+      213: 3976816421118585590
+    second: groundGrass_mown_299
+  - first:
+      213: -9193107035362981007
+    second: groundGrass_mown_300
+  - first:
+      213: -8510441117345333843
+    second: groundGrass_mown_301
+  - first:
+      213: 7413439942811013694
+    second: groundGrass_mown_302
+  - first:
+      213: 2717775442273121754
+    second: groundGrass_mown_303
+  - first:
+      213: -1653125342029020112
+    second: groundGrass_mown_304
+  - first:
+      213: -5299827165629617840
+    second: groundGrass_mown_305
+  - first:
+      213: 1136326864783683766
+    second: groundGrass_mown_306
+  - first:
+      213: 7941791877046493862
+    second: groundGrass_mown_307
+  - first:
+      213: -3546393245510754706
+    second: groundGrass_mown_308
+  - first:
+      213: -1629171077776558627
+    second: groundGrass_mown_309
+  - first:
+      213: -6992695488178889155
+    second: groundGrass_mown_310
+  - first:
+      213: -8094971968141824869
+    second: groundGrass_mown_311
+  - first:
+      213: -7540394769613194673
+    second: groundGrass_mown_312
+  - first:
+      213: 3793835317574431183
+    second: groundGrass_mown_313
+  - first:
+      213: 7096044749980128271
+    second: groundGrass_mown_314
+  - first:
+      213: 827668038406438970
+    second: groundGrass_mown_315
+  - first:
+      213: -1575283892982396871
+    second: groundGrass_mown_316
+  - first:
+      213: 3173099276439588770
+    second: groundGrass_mown_317
+  - first:
+      213: 1557118006399630598
+    second: groundGrass_mown_318
+  - first:
+      213: 6321233355812109954
+    second: groundGrass_mown_319
+  - first:
+      213: -1335978891919827768
+    second: groundGrass_mown_320
+  - first:
+      213: -4902830417642281101
+    second: groundGrass_mown_321
+  - first:
+      213: -7533286035910401388
+    second: groundGrass_mown_322
+  - first:
+      213: -3932645785033077469
+    second: groundGrass_mown_323
+  - first:
+      213: 2792665688479804434
+    second: groundGrass_mown_324
+  - first:
+      213: -2088407670539186765
+    second: groundGrass_mown_325
+  - first:
+      213: 3801658745566723209
+    second: groundGrass_mown_326
+  - first:
+      213: 3160411111104636101
+    second: groundGrass_mown_327
+  - first:
+      213: -1374975474439897335
+    second: groundGrass_mown_328
+  - first:
+      213: 3471449523144597758
+    second: groundGrass_mown_329
+  - first:
+      213: -6888148819493451590
+    second: groundGrass_mown_330
+  - first:
+      213: 4953988946362455784
+    second: groundGrass_mown_331
+  - first:
+      213: 979059726897929918
+    second: groundGrass_mown_332
+  - first:
+      213: 4888336215483588406
+    second: groundGrass_mown_333
+  - first:
+      213: -6164239825372482957
+    second: groundGrass_mown_334
+  - first:
+      213: -8951629190760300109
+    second: groundGrass_mown_335
+  - first:
+      213: 5208583384827182545
+    second: groundGrass_mown_336
+  - first:
+      213: 7146292928649015878
+    second: groundGrass_mown_337
+  - first:
+      213: 1249838496233754909
+    second: groundGrass_mown_338
+  - first:
+      213: 2209156279025920033
+    second: groundGrass_mown_339
+  - first:
+      213: 7573289156060857792
+    second: groundGrass_mown_340
+  - first:
+      213: 3639277080444205562
+    second: groundGrass_mown_341
+  - first:
+      213: -318136317769955114
+    second: groundGrass_mown_342
+  - first:
+      213: -8919632691007953159
+    second: groundGrass_mown_343
+  - first:
+      213: 4131886915850231345
+    second: groundGrass_mown_344
+  - first:
+      213: -3248615455863120976
+    second: groundGrass_mown_345
+  - first:
+      213: 5929907310154036653
+    second: groundGrass_mown_346
+  - first:
+      213: 8082420476468661153
+    second: groundGrass_mown_347
+  - first:
+      213: -3916670147083576751
+    second: groundGrass_mown_348
+  - first:
+      213: 1012405522350339691
+    second: groundGrass_mown_349
+  - first:
+      213: 3826412246604118620
+    second: groundGrass_mown_350
+  - first:
+      213: -8634861072584114168
+    second: groundGrass_mown_351
+  - first:
+      213: -4417182442421918101
+    second: groundGrass_mown_352
+  - first:
+      213: -5224900046606397203
+    second: groundGrass_mown_353
+  - first:
+      213: -7837896877644670814
+    second: groundGrass_mown_354
+  - first:
+      213: 5224808001301054178
+    second: groundGrass_mown_355
+  - first:
+      213: 5394212371144001688
+    second: groundGrass_mown_356
+  - first:
+      213: -638461490266741425
+    second: groundGrass_mown_357
+  - first:
+      213: 5028041707918330360
+    second: groundGrass_mown_358
+  - first:
+      213: 3124191953415038265
+    second: groundGrass_mown_359
+  - first:
+      213: -873256263881068418
+    second: groundGrass_mown_360
+  - first:
+      213: 888839719463099844
+    second: groundGrass_mown_361
+  - first:
+      213: 6724281240238608480
+    second: groundGrass_mown_362
+  - first:
+      213: 4885297941757661246
+    second: groundGrass_mown_363
+  - first:
+      213: 2988068699225642344
+    second: groundGrass_mown_364
+  - first:
+      213: -6904104107443118890
+    second: groundGrass_mown_365
+  - first:
+      213: 1078973049514052029
+    second: groundGrass_mown_366
+  - first:
+      213: -4372235897432073891
+    second: groundGrass_mown_367
+  - first:
+      213: 6763501484290828885
+    second: groundGrass_mown_368
+  - first:
+      213: -423928706950397136
+    second: groundGrass_mown_369
+  - first:
+      213: 731638986534736966
+    second: groundGrass_mown_370
+  - first:
+      213: -1722548381941608801
+    second: groundGrass_mown_371
+  - first:
+      213: -3868568232258699004
+    second: groundGrass_mown_372
+  - first:
+      213: 5967130345895324995
+    second: groundGrass_mown_373
+  - first:
+      213: -908613097155285154
+    second: groundGrass_mown_374
+  - first:
+      213: -636916274103462026
+    second: groundGrass_mown_375
+  - first:
+      213: 3887569254717174790
+    second: groundGrass_mown_376
+  - first:
+      213: -8274732482561478933
+    second: groundGrass_mown_377
+  - first:
+      213: -6515778750460752358
+    second: groundGrass_mown_378
+  - first:
+      213: 2130184518303642521
+    second: groundGrass_mown_379
+  - first:
+      213: 5228243291245296237
+    second: groundGrass_mown_380
+  - first:
+      213: 8560087150944699858
+    second: groundGrass_mown_381
+  - first:
+      213: 8289025005430349477
+    second: groundGrass_mown_382
+  - first:
+      213: -873886169130587553
+    second: groundGrass_mown_383
+  - first:
+      213: 7341806756831199237
+    second: groundGrass_mown_384
+  - first:
+      213: 6778837539249902814
+    second: groundGrass_mown_385
+  - first:
+      213: 6812428349423613050
+    second: groundGrass_mown_386
+  - first:
+      213: 5693020252791314935
+    second: groundGrass_mown_387
+  - first:
+      213: -4240832657014187173
+    second: groundGrass_mown_388
+  - first:
+      213: 5730499174004109809
+    second: groundGrass_mown_389
+  - first:
+      213: 5879665817706111222
+    second: groundGrass_mown_390
+  - first:
+      213: 1680957153858804405
+    second: groundGrass_mown_391
+  - first:
+      213: -2520457325260808989
+    second: groundGrass_mown_392
+  - first:
+      213: 3104389184521728406
+    second: groundGrass_mown_393
+  - first:
+      213: 5848017079034145405
+    second: groundGrass_mown_394
+  - first:
+      213: 2759697450695796941
+    second: groundGrass_mown_395
+  - first:
+      213: 1610142259754170243
+    second: groundGrass_mown_396
+  - first:
+      213: -1884949677458954007
+    second: groundGrass_mown_397
+  - first:
+      213: -3321634658117213639
+    second: groundGrass_mown_398
+  - first:
+      213: 8179050834768960793
+    second: groundGrass_mown_399
+  - first:
+      213: -9170810292242433299
+    second: groundGrass_mown_400
+  - first:
+      213: 3649786059783002079
+    second: groundGrass_mown_401
+  - first:
+      213: 1436294159963927120
+    second: groundGrass_mown_402
+  - first:
+      213: -3914077926002301970
+    second: groundGrass_mown_403
+  - first:
+      213: 3501331889198027597
+    second: groundGrass_mown_404
+  - first:
+      213: 7581178090221328314
+    second: groundGrass_mown_405
+  - first:
+      213: 5296432154610020129
+    second: groundGrass_mown_406
+  - first:
+      213: 6135400364781518830
+    second: groundGrass_mown_407
+  - first:
+      213: -5652287404078847035
+    second: groundGrass_mown_408
+  - first:
+      213: -4415923221741855786
+    second: groundGrass_mown_409
+  - first:
+      213: -5516531468410851152
+    second: groundGrass_mown_410
+  - first:
+      213: 2741846364249854811
+    second: groundGrass_mown_411
+  - first:
+      213: -6478751531768518787
+    second: groundGrass_mown_412
+  - first:
+      213: -4353164677699759282
+    second: groundGrass_mown_413
+  - first:
+      213: -1710251829478042407
+    second: groundGrass_mown_414
+  - first:
+      213: -7857645836933935156
+    second: groundGrass_mown_415
+  - first:
+      213: 4727621397012062492
+    second: groundGrass_mown_416
+  - first:
+      213: 2813118818923477107
+    second: groundGrass_mown_417
+  - first:
+      213: -8952130193390179576
+    second: groundGrass_mown_418
+  - first:
+      213: -5129518467391983907
+    second: groundGrass_mown_419
+  - first:
+      213: -4564211323205395518
+    second: groundGrass_mown_420
+  - first:
+      213: 815068111880274840
+    second: groundGrass_mown_421
+  - first:
+      213: 3049326112709689681
+    second: groundGrass_mown_422
+  - first:
+      213: 2364710163105637388
+    second: groundGrass_mown_423
+  - first:
+      213: 9209423446057981032
+    second: groundGrass_mown_424
+  - first:
+      213: 7124640426612924017
+    second: groundGrass_mown_425
+  - first:
+      213: -8201907341486024300
+    second: groundGrass_mown_426
+  - first:
+      213: 5209760713715183308
+    second: groundGrass_mown_427
+  - first:
+      213: -5016017098526204820
+    second: groundGrass_mown_428
+  - first:
+      213: -7625545703438632649
+    second: groundGrass_mown_429
+  - first:
+      213: 7903210380656839641
+    second: groundGrass_mown_430
+  - first:
+      213: 1563332120201334467
+    second: groundGrass_mown_431
+  - first:
+      213: -2061719705912689670
+    second: groundGrass_mown_432
+  - first:
+      213: -4009503712303518627
+    second: groundGrass_mown_433
+  - first:
+      213: 5961978191202271960
+    second: groundGrass_mown_434
+  - first:
+      213: 3478108361910520264
+    second: groundGrass_mown_435
+  - first:
+      213: 6040091714519292626
+    second: groundGrass_mown_436
+  - first:
+      213: 9211780821004118325
+    second: groundGrass_mown_437
+  - first:
+      213: -5932891349477634977
+    second: groundGrass_mown_438
+  - first:
+      213: -314001461815680297
+    second: groundGrass_mown_439
+  - first:
+      213: 297414177228103595
+    second: groundGrass_mown_440
+  - first:
+      213: -4432188455586719153
+    second: groundGrass_mown_441
+  - first:
+      213: 722436822579515227
+    second: groundGrass_mown_442
+  - first:
+      213: -3622514027386529582
+    second: groundGrass_mown_443
+  - first:
+      213: 4928783096710279812
+    second: groundGrass_mown_444
+  - first:
+      213: 368151718569665551
+    second: groundGrass_mown_445
+  - first:
+      213: 258203037495120776
+    second: groundGrass_mown_446
+  - first:
+      213: 1403487715216081984
+    second: groundGrass_mown_447
+  - first:
+      213: 5247313095333506046
+    second: groundGrass_mown_448
+  - first:
+      213: -831657655295967117
+    second: groundGrass_mown_449
+  - first:
+      213: 684224527805485468
+    second: groundGrass_mown_450
+  - first:
+      213: 3213876702363371977
+    second: groundGrass_mown_451
+  - first:
+      213: 8105720871034531580
+    second: groundGrass_mown_452
+  - first:
+      213: 6816466670791284140
+    second: groundGrass_mown_453
+  - first:
+      213: 6300203072345923159
+    second: groundGrass_mown_454
+  - first:
+      213: -6546615580369305536
+    second: groundGrass_mown_455
+  - first:
+      213: 6669285367356397367
+    second: groundGrass_mown_456
+  - first:
+      213: 382853931435163722
+    second: groundGrass_mown_457
+  - first:
+      213: -3843919817749969346
+    second: groundGrass_mown_458
+  - first:
+      213: -3501056377801872358
+    second: groundGrass_mown_459
+  - first:
+      213: 1721039377802722679
+    second: groundGrass_mown_460
+  - first:
+      213: 8107480262166222524
+    second: groundGrass_mown_461
+  - first:
+      213: 4809502226109345069
+    second: groundGrass_mown_462
+  - first:
+      213: 5894430915972826276
+    second: groundGrass_mown_463
+  - first:
+      213: 2551770744367080523
+    second: groundGrass_mown_464
+  - first:
+      213: -4658105275835370913
+    second: groundGrass_mown_465
+  - first:
+      213: 7810464930562358018
+    second: groundGrass_mown_466
+  - first:
+      213: 605531252598787787
+    second: groundGrass_mown_467
+  - first:
+      213: -2971958044801466762
+    second: groundGrass_mown_468
+  - first:
+      213: 310256288117732478
+    second: groundGrass_mown_469
+  - first:
+      213: 1227301822025762755
+    second: groundGrass_mown_470
+  - first:
+      213: -3504916064289818603
+    second: groundGrass_mown_471
+  - first:
+      213: -4681495473179169591
+    second: groundGrass_mown_472
+  - first:
+      213: -2851796089837146195
+    second: groundGrass_mown_473
+  - first:
+      213: -4321041999227700175
+    second: groundGrass_mown_474
+  - first:
+      213: 5133412581246630139
+    second: groundGrass_mown_475
+  - first:
+      213: 6490863862706429518
+    second: groundGrass_mown_476
+  - first:
+      213: -2835220713775532114
+    second: groundGrass_mown_477
+  - first:
+      213: 7598240470131623566
+    second: groundGrass_mown_478
+  - first:
+      213: 1197948092101194985
+    second: groundGrass_mown_479
+  - first:
+      213: 8676173871906627642
+    second: groundGrass_mown_480
+  - first:
+      213: 36561930994927367
+    second: groundGrass_mown_481
+  - first:
+      213: 4656120034195949064
+    second: groundGrass_mown_482
+  - first:
+      213: 1101242795961727603
+    second: groundGrass_mown_483
+  - first:
+      213: -5741419386434425090
+    second: groundGrass_mown_484
+  - first:
+      213: 3260932353781830071
+    second: groundGrass_mown_485
+  - first:
+      213: -6572174645477967200
+    second: groundGrass_mown_486
+  - first:
+      213: -250643639065256212
+    second: groundGrass_mown_487
+  - first:
+      213: -4730932460976570749
+    second: groundGrass_mown_488
+  - first:
+      213: -3420576941409141744
+    second: groundGrass_mown_489
+  - first:
+      213: -8617706715839436755
+    second: groundGrass_mown_490
+  - first:
+      213: -2160570497351550547
+    second: groundGrass_mown_491
+  - first:
+      213: 6316738570979333735
+    second: groundGrass_mown_492
+  - first:
+      213: -5516669473531976798
+    second: groundGrass_mown_493
+  - first:
+      213: 3672021299072361729
+    second: groundGrass_mown_494
+  - first:
+      213: 5166175706693796598
+    second: groundGrass_mown_495
+  - first:
+      213: 6999162159977001188
+    second: groundGrass_mown_496
+  - first:
+      213: 1074086383482185164
+    second: groundGrass_mown_497
+  - first:
+      213: -7909859550390111433
+    second: groundGrass_mown_498
+  - first:
+      213: -209508288803784889
+    second: groundGrass_mown_499
+  - first:
+      213: 6517242727776619546
+    second: groundGrass_mown_500
+  - first:
+      213: 4435477036461687942
+    second: groundGrass_mown_501
+  - first:
+      213: -5692196649188896963
+    second: groundGrass_mown_502
+  - first:
+      213: -6545894527083409326
+    second: groundGrass_mown_503
+  - first:
+      213: 9179547959138441974
+    second: groundGrass_mown_504
+  - first:
+      213: -4642653920922814517
+    second: groundGrass_mown_505
+  - first:
+      213: 8384931217716236375
+    second: groundGrass_mown_506
+  - first:
+      213: -5234884974227712240
+    second: groundGrass_mown_507
+  - first:
+      213: 3446182451159581177
+    second: groundGrass_mown_508
+  - first:
+      213: -4437397532309677608
+    second: groundGrass_mown_509
+  - first:
+      213: -6365023694383410642
+    second: groundGrass_mown_510
+  - first:
+      213: 5845949319640098414
+    second: groundGrass_mown_511
+  - first:
+      213: 3495446906567212098
+    second: groundGrass_mown_512
+  - first:
+      213: -3215349262401617017
+    second: groundGrass_mown_513
+  - first:
+      213: 5045710609562204178
+    second: groundGrass_mown_514
+  - first:
+      213: 8501331568524870759
+    second: groundGrass_mown_515
+  - first:
+      213: 6322293513531018533
+    second: groundGrass_mown_516
+  - first:
+      213: -6963867027906348061
+    second: groundGrass_mown_517
+  - first:
+      213: 3642603047801111799
+    second: groundGrass_mown_518
+  - first:
+      213: 1848813207137893696
+    second: groundGrass_mown_519
+  - first:
+      213: 7339802649459318601
+    second: groundGrass_mown_520
+  - first:
+      213: -7550544379576632789
+    second: groundGrass_mown_521
+  - first:
+      213: 3476231080601433058
+    second: groundGrass_mown_522
+  - first:
+      213: 9204327185558660576
+    second: groundGrass_mown_523
+  - first:
+      213: -8850005062607360907
+    second: groundGrass_mown_524
+  - first:
+      213: 4470362795806298804
+    second: groundGrass_mown_525
+  - first:
+      213: 8527944198879862615
+    second: groundGrass_mown_526
+  - first:
+      213: -5222202882864429102
+    second: groundGrass_mown_527
+  - first:
+      213: 2524067921019445918
+    second: groundGrass_mown_528
+  - first:
+      213: 8874490365139421920
+    second: groundGrass_mown_529
+  - first:
+      213: -4677061922080235858
+    second: groundGrass_mown_530
+  - first:
+      213: -62632950255582075
+    second: groundGrass_mown_531
+  - first:
+      213: 6314306133924572131
+    second: groundGrass_mown_532
+  - first:
+      213: -3031093559347307429
+    second: groundGrass_mown_533
+  - first:
+      213: 4776688811790258279
+    second: groundGrass_mown_534
+  - first:
+      213: -2987329271353370716
+    second: groundGrass_mown_535
+  - first:
+      213: -6190772011457313263
+    second: groundGrass_mown_536
+  - first:
+      213: 1892954202839204762
+    second: groundGrass_mown_537
+  - first:
+      213: -2476728832088967991
+    second: groundGrass_mown_538
+  - first:
+      213: 7769578673606025731
+    second: groundGrass_mown_539
+  - first:
+      213: -3039833729196539695
+    second: groundGrass_mown_540
+  - first:
+      213: 9145615821386236144
+    second: groundGrass_mown_541
+  - first:
+      213: -7064630148080963810
+    second: groundGrass_mown_542
+  - first:
+      213: 8477435722032866771
+    second: groundGrass_mown_543
+  - first:
+      213: -2439118951063644143
+    second: groundGrass_mown_544
+  - first:
+      213: 738965301981973808
+    second: groundGrass_mown_545
+  - first:
+      213: -7837781333204274781
+    second: groundGrass_mown_546
+  - first:
+      213: 8362518261121752657
+    second: groundGrass_mown_547
+  - first:
+      213: 5326704474410512833
+    second: groundGrass_mown_548
+  - first:
+      213: 3657531765632475950
+    second: groundGrass_mown_549
+  - first:
+      213: -7487409199651547623
+    second: groundGrass_mown_550
+  - first:
+      213: -74268507545972636
+    second: groundGrass_mown_551
+  - first:
+      213: -1337351754534994175
+    second: groundGrass_mown_552
+  - first:
+      213: -4919985544444771377
+    second: groundGrass_mown_553
+  - first:
+      213: 822461015461375737
+    second: groundGrass_mown_554
+  - first:
+      213: 3555096101881615046
+    second: groundGrass_mown_555
+  - first:
+      213: 1353088271637507473
+    second: groundGrass_mown_556
+  - first:
+      213: -4698932083973296130
+    second: groundGrass_mown_557
+  - first:
+      213: -259031431557758166
+    second: groundGrass_mown_558
+  - first:
+      213: 2083709508684651160
+    second: groundGrass_mown_559
+  - first:
+      213: -3705311746164822116
+    second: groundGrass_mown_560
+  - first:
+      213: 4712791430337943837
+    second: groundGrass_mown_561
+  - first:
+      213: 6151246989738663889
+    second: groundGrass_mown_562
+  - first:
+      213: 1975046277431906567
+    second: groundGrass_mown_563
+  - first:
+      213: -623519670496063486
+    second: groundGrass_mown_564
+  - first:
+      213: -8093521421527469747
+    second: groundGrass_mown_565
+  - first:
+      213: 6963636915731404120
+    second: groundGrass_mown_566
+  - first:
+      213: -256065600078441432
+    second: groundGrass_mown_567
+  - first:
+      213: 1019251575985367827
+    second: groundGrass_mown_568
+  - first:
+      213: 1653737120385748357
+    second: groundGrass_mown_569
+  - first:
+      213: 8788413643528131030
+    second: groundGrass_mown_570
+  - first:
+      213: -1770136057875884905
+    second: groundGrass_mown_571
+  - first:
+      213: -5240913943220518573
+    second: groundGrass_mown_572
+  - first:
+      213: 2399898517774640626
+    second: groundGrass_mown_573
+  - first:
+      213: 4301686233921986983
+    second: groundGrass_mown_574
+  - first:
+      213: -2828874405640012206
+    second: groundGrass_mown_575
+  - first:
+      213: -2478436434896417872
+    second: groundGrass_mown_576
+  - first:
+      213: -1380142170573639984
+    second: groundGrass_mown_577
+  - first:
+      213: -8571437403433052471
+    second: groundGrass_mown_578
+  - first:
+      213: -2030454162575380803
+    second: groundGrass_mown_579
+  - first:
+      213: -3747804860701413326
+    second: groundGrass_mown_580
+  - first:
+      213: -6765298618096173575
+    second: groundGrass_mown_581
+  - first:
+      213: -5823635937721914313
+    second: groundGrass_mown_582
+  - first:
+      213: 4300157247462952275
+    second: groundGrass_mown_583
+  - first:
+      213: -8117269171041473603
+    second: groundGrass_mown_584
+  - first:
+      213: 4008647444329592412
+    second: groundGrass_mown_585
+  - first:
+      213: 7419778111427993058
+    second: groundGrass_mown_586
+  - first:
+      213: -1482070468194937611
+    second: groundGrass_mown_587
+  - first:
+      213: 9134786976764331075
+    second: groundGrass_mown_588
+  - first:
+      213: 8425979477656503363
+    second: groundGrass_mown_589
+  - first:
+      213: 5914527396130363279
+    second: groundGrass_mown_590
+  - first:
+      213: -2710841040607889483
+    second: groundGrass_mown_591
+  - first:
+      213: 5124872797929818497
+    second: groundGrass_mown_592
+  - first:
+      213: 8808592639930654333
+    second: groundGrass_mown_593
+  - first:
+      213: -7117333247318413433
+    second: groundGrass_mown_594
+  - first:
+      213: -3711426890932711386
+    second: groundGrass_mown_595
+  - first:
+      213: 7169339006395514342
+    second: groundGrass_mown_596
+  - first:
+      213: -2704634322784183964
+    second: groundGrass_mown_597
+  - first:
+      213: -6988541296662051606
+    second: groundGrass_mown_598
+  - first:
+      213: -4140529738919141331
+    second: groundGrass_mown_599
+  - first:
+      213: 8503753904409117834
+    second: groundGrass_mown_600
+  - first:
+      213: 3375035623063297113
+    second: groundGrass_mown_601
+  - first:
+      213: -5277618459054921273
+    second: groundGrass_mown_602
+  - first:
+      213: -7569905089791068722
+    second: groundGrass_mown_603
+  - first:
+      213: 2905663510949147523
+    second: groundGrass_mown_604
+  - first:
+      213: 8663772633893728903
+    second: groundGrass_mown_605
+  - first:
+      213: 2132566034911115133
+    second: groundGrass_mown_606
+  - first:
+      213: 7395907827185923696
+    second: groundGrass_mown_607
+  - first:
+      213: -5874787691336485597
+    second: groundGrass_mown_608
+  - first:
+      213: 8757783971261875713
+    second: groundGrass_mown_609
+  - first:
+      213: -53714787233145012
+    second: groundGrass_mown_610
+  - first:
+      213: -7855956264015518581
+    second: groundGrass_mown_611
+  - first:
+      213: 2465698311065328525
+    second: groundGrass_mown_612
+  - first:
+      213: -5415253631985672577
+    second: groundGrass_mown_613
+  - first:
+      213: -2078588576403154605
+    second: groundGrass_mown_614
+  - first:
+      213: -639793590740277788
+    second: groundGrass_mown_615
+  - first:
+      213: -1287054158374011612
+    second: groundGrass_mown_616
+  - first:
+      213: -7838632758154601489
+    second: groundGrass_mown_617
+  - first:
+      213: -3062830537904953878
+    second: groundGrass_mown_618
+  - first:
+      213: 2305677635375894984
+    second: groundGrass_mown_619
+  - first:
+      213: 5602173182182066184
+    second: groundGrass_mown_620
+  - first:
+      213: -1062285968639949012
+    second: groundGrass_mown_621
+  - first:
+      213: 3590767745646597718
+    second: groundGrass_mown_622
+  - first:
+      213: -6281716944174714402
+    second: groundGrass_mown_623
+  - first:
+      213: -8948160592939978147
+    second: groundGrass_mown_624
+  - first:
+      213: 7069807996904897097
+    second: groundGrass_mown_625
+  - first:
+      213: 3197034948239560914
+    second: groundGrass_mown_626
+  - first:
+      213: -278615887005368352
+    second: groundGrass_mown_627
+  - first:
+      213: -2557449600637102706
+    second: groundGrass_mown_628
+  - first:
+      213: -9166370334031091818
+    second: groundGrass_mown_629
+  - first:
+      213: 2046534880953939197
+    second: groundGrass_mown_630
+  - first:
+      213: -7839215129455640916
+    second: groundGrass_mown_631
+  - first:
+      213: 4240034108113524962
+    second: groundGrass_mown_632
+  - first:
+      213: 8030784817250694523
+    second: groundGrass_mown_633
+  - first:
+      213: -6117096990407822161
+    second: groundGrass_mown_634
+  - first:
+      213: -8011873647363229903
+    second: groundGrass_mown_635
+  - first:
+      213: -7711512025855116419
+    second: groundGrass_mown_636
+  - first:
+      213: 5858583048539212287
+    second: groundGrass_mown_637
+  - first:
+      213: -2651859227174706686
+    second: groundGrass_mown_638
+  - first:
+      213: 8359572634447006693
+    second: groundGrass_mown_639
+  - first:
+      213: 2938868045562257647
+    second: groundGrass_mown_640
+  - first:
+      213: -3992569843862161755
+    second: groundGrass_mown_641
+  - first:
+      213: 1987360968506881019
+    second: groundGrass_mown_642
+  - first:
+      213: -3276624461209782279
+    second: groundGrass_mown_643
+  - first:
+      213: -1393259060305325712
+    second: groundGrass_mown_644
+  - first:
+      213: -5086818134173194150
+    second: groundGrass_mown_645
+  - first:
+      213: -3770684165561872786
+    second: groundGrass_mown_646
+  - first:
+      213: 8782158959245150886
+    second: groundGrass_mown_647
+  - first:
+      213: 1407848661226465086
+    second: groundGrass_mown_648
+  - first:
+      213: 2297152928872955676
+    second: groundGrass_mown_649
+  - first:
+      213: 298523980354638296
+    second: groundGrass_mown_650
+  - first:
+      213: 740131143794069771
+    second: groundGrass_mown_651
+  - first:
+      213: -7602012270718001907
+    second: groundGrass_mown_652
+  - first:
+      213: 8302320911213184721
+    second: groundGrass_mown_653
+  - first:
+      213: -7374663670972342186
+    second: groundGrass_mown_654
+  - first:
+      213: 268471359878165369
+    second: groundGrass_mown_655
+  - first:
+      213: -5913335667105467899
+    second: groundGrass_mown_656
+  - first:
+      213: -7440046717506290215
+    second: groundGrass_mown_657
+  - first:
+      213: -3260540289713271953
+    second: groundGrass_mown_658
+  - first:
+      213: -2022577028100518093
+    second: groundGrass_mown_659
+  - first:
+      213: 3648416258969597527
+    second: groundGrass_mown_660
+  - first:
+      213: 4782008373004976463
+    second: groundGrass_mown_661
+  - first:
+      213: 5825937736596679812
+    second: groundGrass_mown_662
+  - first:
+      213: 4727837668699812803
+    second: groundGrass_mown_663
+  - first:
+      213: 1644626658212583768
+    second: groundGrass_mown_664
+  - first:
+      213: 1173577435505095941
+    second: groundGrass_mown_665
+  - first:
+      213: 7795340356141124662
+    second: groundGrass_mown_666
+  - first:
+      213: -6410980873070173000
+    second: groundGrass_mown_667
+  - first:
+      213: -5326401924045694221
+    second: groundGrass_mown_668
+  - first:
+      213: 8870708632608657256
+    second: groundGrass_mown_669
+  - first:
+      213: -8670564777934273954
+    second: groundGrass_mown_670
+  - first:
+      213: 2304254301430636786
+    second: groundGrass_mown_671
+  - first:
+      213: 9166898497462573251
+    second: groundGrass_mown_672
+  - first:
+      213: -1029269372452358769
+    second: groundGrass_mown_673
+  - first:
+      213: 463695714391192375
+    second: groundGrass_mown_674
+  - first:
+      213: 345702134753248618
+    second: groundGrass_mown_675
+  - first:
+      213: -6451964935615600574
+    second: groundGrass_mown_676
+  - first:
+      213: 6006658741641265415
+    second: groundGrass_mown_677
+  - first:
+      213: 980720782870476412
+    second: groundGrass_mown_678
+  - first:
+      213: 5988166206134203273
+    second: groundGrass_mown_679
+  - first:
+      213: 1907909349784755002
+    second: groundGrass_mown_680
+  - first:
+      213: -3546363545156366785
+    second: groundGrass_mown_681
+  - first:
+      213: 999244217414397046
+    second: groundGrass_mown_682
+  - first:
+      213: 157556895640822935
+    second: groundGrass_mown_683
+  - first:
+      213: -2399093211796580953
+    second: groundGrass_mown_684
+  - first:
+      213: 7547862750659783530
+    second: groundGrass_mown_685
+  - first:
+      213: 4259973995107037472
+    second: groundGrass_mown_686
+  - first:
+      213: -7327336466234140233
+    second: groundGrass_mown_687
+  - first:
+      213: 444145151894304041
+    second: groundGrass_mown_688
+  - first:
+      213: 3547693418150583941
+    second: groundGrass_mown_689
+  - first:
+      213: -1501641522833916195
+    second: groundGrass_mown_690
+  - first:
+      213: -1678012141804669067
+    second: groundGrass_mown_691
+  - first:
+      213: -2643483221520299459
+    second: groundGrass_mown_692
+  - first:
+      213: 2956997427527654424
+    second: groundGrass_mown_693
+  - first:
+      213: -4957255779493232435
+    second: groundGrass_mown_694
+  - first:
+      213: -5301501312173223651
+    second: groundGrass_mown_695
+  - first:
+      213: 82791588039287990
+    second: groundGrass_mown_696
+  - first:
+      213: 6897245075271071306
+    second: groundGrass_mown_697
+  - first:
+      213: -6723566449353596441
+    second: groundGrass_mown_698
+  - first:
+      213: 2102078174367456838
+    second: groundGrass_mown_699
+  - first:
+      213: 3805724562499096659
+    second: groundGrass_mown_700
+  - first:
+      213: 1719737162525225771
+    second: groundGrass_mown_701
+  - first:
+      213: 4977240180491986691
+    second: groundGrass_mown_702
+  - first:
+      213: -7370427832244391215
+    second: groundGrass_mown_703
+  - first:
+      213: 8071575107219940644
+    second: groundGrass_mown_704
+  - first:
+      213: -336232408174869728
+    second: groundGrass_mown_705
+  - first:
+      213: -4754173877541911660
+    second: groundGrass_mown_706
+  - first:
+      213: 64437053624676838
+    second: groundGrass_mown_707
+  - first:
+      213: 4185212364463979107
+    second: groundGrass_mown_708
+  - first:
+      213: 8349913194254996745
+    second: groundGrass_mown_709
+  - first:
+      213: 4400271432310523556
+    second: groundGrass_mown_710
+  - first:
+      213: -4952915061918034164
+    second: groundGrass_mown_711
+  - first:
+      213: -1231019897805884834
+    second: groundGrass_mown_712
+  - first:
+      213: -4226202845015246696
+    second: groundGrass_mown_713
+  - first:
+      213: 9027633841514825532
+    second: groundGrass_mown_714
+  - first:
+      213: 8271545781269638512
+    second: groundGrass_mown_715
+  - first:
+      213: -1161835352238739256
+    second: groundGrass_mown_716
+  - first:
+      213: -3051422170644279698
+    second: groundGrass_mown_717
+  - first:
+      213: -2098081854755346984
+    second: groundGrass_mown_718
+  - first:
+      213: -9099696246423899047
+    second: groundGrass_mown_719
+  - first:
+      213: -2625099567688275499
+    second: groundGrass_mown_720
+  - first:
+      213: -355137886496587203
+    second: groundGrass_mown_721
+  - first:
+      213: -7522664371876752076
+    second: groundGrass_mown_722
+  - first:
+      213: 6719794176115435885
+    second: groundGrass_mown_723
+  - first:
+      213: 7844073695837568949
+    second: groundGrass_mown_724
+  - first:
+      213: -125291055289160961
+    second: groundGrass_mown_725
+  - first:
+      213: -7671813449576586900
+    second: groundGrass_mown_726
+  - first:
+      213: -5109120133292155034
+    second: groundGrass_mown_727
+  - first:
+      213: -9131260502510054613
+    second: groundGrass_mown_728
+  - first:
+      213: 5787159011756995033
+    second: groundGrass_mown_729
+  - first:
+      213: -3427721187807498061
+    second: groundGrass_mown_730
+  - first:
+      213: -4061311276735042222
+    second: groundGrass_mown_731
+  - first:
+      213: 4568078184038943677
+    second: groundGrass_mown_732
+  - first:
+      213: 6524816498352582317
+    second: groundGrass_mown_733
+  - first:
+      213: -6889739526061883999
+    second: groundGrass_mown_734
+  - first:
+      213: -8777606167083290493
+    second: groundGrass_mown_735
+  - first:
+      213: -9172133566015357359
+    second: groundGrass_mown_736
+  - first:
+      213: -5865624306751008519
+    second: groundGrass_mown_737
+  - first:
+      213: 1347035269885227627
+    second: groundGrass_mown_738
+  - first:
+      213: 776855496465834871
+    second: groundGrass_mown_739
+  - first:
+      213: -3665305240648149874
+    second: groundGrass_mown_740
+  - first:
+      213: -7032161219936852005
+    second: groundGrass_mown_741
+  - first:
+      213: -2796979482033384127
+    second: groundGrass_mown_742
+  - first:
+      213: 433364439562551642
+    second: groundGrass_mown_743
+  - first:
+      213: 3080585260863840395
+    second: groundGrass_mown_744
+  - first:
+      213: 2343165675069466014
+    second: groundGrass_mown_745
+  - first:
+      213: 1530943627443284984
+    second: groundGrass_mown_746
+  - first:
+      213: -241616461969488940
+    second: groundGrass_mown_747
+  - first:
+      213: -3666726555863939326
+    second: groundGrass_mown_748
+  - first:
+      213: -5067624141726151076
+    second: groundGrass_mown_749
+  - first:
+      213: 7180339432176841591
+    second: groundGrass_mown_750
+  - first:
+      213: -2322771854780681404
+    second: groundGrass_mown_751
+  - first:
+      213: 8870400175558809218
+    second: groundGrass_mown_752
+  - first:
+      213: 1371901255500310879
+    second: groundGrass_mown_753
+  - first:
+      213: -7477232607464222354
+    second: groundGrass_mown_754
+  - first:
+      213: 8098482668591841002
+    second: groundGrass_mown_755
+  - first:
+      213: 1931535429804553801
+    second: groundGrass_mown_756
+  - first:
+      213: -8603472035423549469
+    second: groundGrass_mown_757
+  - first:
+      213: -8474291186301270028
+    second: groundGrass_mown_758
+  - first:
+      213: -1060755073967728216
+    second: groundGrass_mown_759
+  - first:
+      213: 8164141096983132092
+    second: groundGrass_mown_760
+  - first:
+      213: 38354897575480016
+    second: groundGrass_mown_761
+  - first:
+      213: 2952093563210728721
+    second: groundGrass_mown_762
+  - first:
+      213: -970921993148604979
+    second: groundGrass_mown_763
+  - first:
+      213: 4851017873265066000
+    second: groundGrass_mown_764
+  - first:
+      213: 8231495961087606696
+    second: groundGrass_mown_765
+  - first:
+      213: 7867721749891080275
+    second: groundGrass_mown_766
+  - first:
+      213: -3566730665234889496
+    second: groundGrass_mown_767
+  - first:
+      213: 8678975968995681322
+    second: groundGrass_mown_768
+  - first:
+      213: 5028377495976000489
+    second: groundGrass_mown_769
+  - first:
+      213: 6306043651135579907
+    second: groundGrass_mown_770
+  - first:
+      213: -4046176879848844950
+    second: groundGrass_mown_771
+  - first:
+      213: 2468057402235617343
+    second: groundGrass_mown_772
+  - first:
+      213: -5783088643648879716
+    second: groundGrass_mown_773
+  - first:
+      213: -7673981845183475363
+    second: groundGrass_mown_774
+  - first:
+      213: 5595530303117836432
+    second: groundGrass_mown_775
+  - first:
+      213: 7877297715983181442
+    second: groundGrass_mown_776
+  - first:
+      213: -8188543452455412675
+    second: groundGrass_mown_777
+  - first:
+      213: -5003076316836522046
+    second: groundGrass_mown_778
+  - first:
+      213: -7113210126119008714
+    second: groundGrass_mown_779
+  - first:
+      213: 9209947237219304947
+    second: groundGrass_mown_780
+  - first:
+      213: 8867941361159318524
+    second: groundGrass_mown_781
+  - first:
+      213: 4458243732957119934
+    second: groundGrass_mown_782
+  - first:
+      213: 1446617756519193186
+    second: groundGrass_mown_783
+  - first:
+      213: -8343508105404174751
+    second: groundGrass_mown_784
+  - first:
+      213: 9000905446828353432
+    second: groundGrass_mown_785
+  - first:
+      213: -4532155711602739342
+    second: groundGrass_mown_786
+  - first:
+      213: 2826182651115791299
+    second: groundGrass_mown_787
+  - first:
+      213: 1632070352764058127
+    second: groundGrass_mown_788
+  - first:
+      213: 8544813120499700875
+    second: groundGrass_mown_789
+  - first:
+      213: 6145049825285654079
+    second: groundGrass_mown_790
+  - first:
+      213: 3162752364219020340
+    second: groundGrass_mown_791
+  - first:
+      213: 3195545020628205223
+    second: groundGrass_mown_792
+  - first:
+      213: -6756972536486110317
+    second: groundGrass_mown_793
+  - first:
+      213: -6483336437501104400
+    second: groundGrass_mown_794
+  - first:
+      213: -1210352790692277254
+    second: groundGrass_mown_795
+  - first:
+      213: -1838543910196536036
+    second: groundGrass_mown_796
+  - first:
+      213: -4300172623816407916
+    second: groundGrass_mown_797
+  - first:
+      213: 341383949209723561
+    second: groundGrass_mown_798
+  - first:
+      213: -2663314704572568932
+    second: groundGrass_mown_799
+  - first:
+      213: 2521689538356332075
+    second: groundGrass_mown_800
+  - first:
+      213: 5089878048162029899
+    second: groundGrass_mown_801
+  - first:
+      213: -1527018484352745821
+    second: groundGrass_mown_802
+  - first:
+      213: 1671503058397922581
+    second: groundGrass_mown_803
+  - first:
+      213: -8269546282961431343
+    second: groundGrass_mown_804
+  - first:
+      213: -8275619475912220614
+    second: groundGrass_mown_805
+  - first:
+      213: -5125872467117074704
+    second: groundGrass_mown_806
+  - first:
+      213: -5753057330327031943
+    second: groundGrass_mown_807
+  - first:
+      213: 1868471459499286537
+    second: groundGrass_mown_808
+  - first:
+      213: -3007024056714963130
+    second: groundGrass_mown_809
+  - first:
+      213: 2698232431076911872
+    second: groundGrass_mown_810
+  - first:
+      213: -1539035646851835382
+    second: groundGrass_mown_811
+  - first:
+      213: 6878575124707366565
+    second: groundGrass_mown_812
+  - first:
+      213: -5177800899341269138
+    second: groundGrass_mown_813
+  - first:
+      213: -3692248777021307285
+    second: groundGrass_mown_814
+  - first:
+      213: -6066789262117668052
+    second: groundGrass_mown_815
+  - first:
+      213: 8614707408030134584
+    second: groundGrass_mown_816
+  - first:
+      213: 4701298690585274590
+    second: groundGrass_mown_817
+  - first:
+      213: 1718481827544424973
+    second: groundGrass_mown_818
+  - first:
+      213: -1852344819878821180
+    second: groundGrass_mown_819
+  - first:
+      213: 6327028842004839998
+    second: groundGrass_mown_820
+  - first:
+      213: 8684387166250137873
+    second: groundGrass_mown_821
+  - first:
+      213: 9213845173793811865
+    second: groundGrass_mown_822
+  - first:
+      213: 149737504375421906
+    second: groundGrass_mown_823
+  - first:
+      213: 9015701485899225160
+    second: groundGrass_mown_824
+  - first:
+      213: 3822578276799439179
+    second: groundGrass_mown_825
+  - first:
+      213: 6203314431594552733
+    second: groundGrass_mown_826
+  - first:
+      213: -5483193685748667889
+    second: groundGrass_mown_827
+  - first:
+      213: 6361160012667699220
+    second: groundGrass_mown_828
+  - first:
+      213: -8622960678687864958
+    second: groundGrass_mown_829
+  - first:
+      213: 8184714469198937716
+    second: groundGrass_mown_830
+  - first:
+      213: -1823825363312336716
+    second: groundGrass_mown_831
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: groundGrass_mown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9fac21e4eea78b0800000000000000
+      internalID: -5153544804481959501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6bb9a5de08e57b0800000000000000
+      internalID: -5233603960042178900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b10db5c4232000800000000000000
+      internalID: 9892055883037088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22407b6937fcb80800000000000000
+      internalID: -8372346091105672512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15910cde90e3a4d10800000000000000
+      internalID: 2110567587740916049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ac40969684e440800000000000000
+      internalID: 4964240670493287312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3043aac6b58190800000000000000
+      internalID: -7960755784868938552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8f7223a5c15940800000000000000
+      internalID: 5283221142331427938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d254ce727a83640800000000000000
+      internalID: 5059977971260271919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee0f8daffd8977c0800000000000000
+      internalID: -4073068258711892244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d87ee3523d80740800000000000000
+      internalID: 5118573133429181812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6b19e49270c260800000000000000
+      internalID: 7115813395136999182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff9196369e54840800000000000000
+      internalID: 5207825157298192144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4ca5ab89290b80800000000000000
+      internalID: -8428159547890446506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc171014e72ff480800000000000000
+      internalID: -8863321681165869892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537761353246ea890800000000000000
+      internalID: -7444903031116237003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154c2dbc2a16d750800000000000000
+      internalID: 6329275105770489118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba1877705bbdf80800000000000000
+      internalID: -8080666062711837869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f1815c03231eed0800000000000000
+      internalID: -2386571142483140767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779af66aa38de88c0800000000000000
+      internalID: -3995018073019012745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577ea1b786a0ad20800000000000000
+      internalID: 3287810829712258908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f2ec36f3d46d60800000000000000
+      internalID: 7882658302342131914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a8672c3a8de0430800000000000000
+      internalID: 3751173737500019291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612a21b30f21c760800000000000000
+      internalID: 7476308549315469674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec5739c9fbbb190800000000000000
+      internalID: -7945546438355333386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b189e7ff665620800000000000000
+      internalID: 2762518532003576218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749bb39b5bfdf5130800000000000000
+      internalID: 3557808202235754823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa52292adf3fe40800000000000000
+      internalID: 5689169628977539659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f4720e10ce46510800000000000000
+      internalID: 1541616465267347321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e8c9bcd13e3500800000000000000
+      internalID: 377794242825218324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fed01841ee0710800000000000000
+      internalID: 1661513012183233517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b9b28f24fd4a80800000000000000
+      internalID: -8480854038374926538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375ec43a945347b0800000000000000
+      internalID: -5241252520041490625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd020cf68426ff0800000000000000
+      internalID: -44393401518334068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cebe19dc1b3a90800000000000000
+      internalID: -7333235849393420243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa1ecc41d22b720800000000000000
+      internalID: 2860398280693624654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045825ffcdfa2470800000000000000
+      internalID: 8370781927034606600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5eb5c1a262833a0800000000000000
+      internalID: -6685551684525234779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce284493d88e720800000000000000
+      internalID: 2875703639178144876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6699d5c4717b7340800000000000000
+      internalID: 4862604969026098797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c93efd479a28a60800000000000000
+      internalID: 7674883034430282761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47233f1c56a67310800000000000000
+      internalID: 1402491248563136334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bffdb2e6b343ca0800000000000000
+      internalID: -6038135856028452027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747600ee52396c60800000000000000
+      internalID: 7811830411717670011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aafb9c6ff3556e20800000000000000
+      internalID: 3343170654896388771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ddbb023433df3e0800000000000000
+      internalID: -2018400694587105970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f37296d6050cc0800000000000000
+      internalID: -3745579996438857946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c1a63de609fd60800000000000000
+      internalID: 7924372635228684315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bd4e4f35a6ca40800000000000000
+      internalID: 5388175695510615466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65628267c755b7130800000000000000
+      internalID: 3565537523040527958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3d2353a49f44d0800000000000000
+      internalID: -3148134185312633126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb8d10e576779e0800000000000000
+      internalID: -1623715487188206072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03e6387f23020b0800000000000000
+      internalID: -5755544285136146206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457d846837672b80800000000000000
+      internalID: -8419647486443031227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21fc5535fa0b560800000000000000
+      internalID: 7327549366188577442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1074af09dc6f60800000000000000
+      internalID: 8029030896901300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a0ba99de1aadd0800000000000000
+      internalID: -2474131125334662810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b97b96dfbbc560800000000000000
+      internalID: 7335167346555336035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648fd18dd6088c290800000000000000
+      internalID: -7869899139564308410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d444b51043727e0800000000000000
+      internalID: -1790405146425668273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45efc3088ac0ec0800000000000000
+      internalID: -3599316733443287830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd83ecc847d0280800000000000000
+      internalID: -9075469525977604956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b9489174dd6e80800000000000000
+      internalID: -8183651363510963288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b1f448ac38f0d0800000000000000
+      internalID: -3388892026187435635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc81dbc7dc5ef80800000000000000
+      internalID: -8077824420986958923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08f86df0082c0e0800000000000000
+      internalID: -2251096058219233046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7763302e4de9b0800000000000000
+      internalID: -5049293707004117142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625f6e83ebb1f9f0800000000000000
+      internalID: -436361102856596892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a50f35fba93980800000000000000
+      internalID: -8558620547028246020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904d1f58eff156a0800000000000000
+      internalID: -6462102616806702959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f531a2d362ba1b0800000000000000
+      internalID: -5644375663838011515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d71b1d2a879bb10800000000000000
+      internalID: 1997760550413630792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1fda59afc18130800000000000000
+      internalID: 3567360706135137476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8965dfbe5cf720800000000000000
+      internalID: 2881282039622503007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5f751946b49d80800000000000000
+      internalID: -8244764592798999442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2735ba97a63030800000000000000
+      internalID: 3474148445470011260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b7301693012150800000000000000
+      internalID: 5845957734355677414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71282f9788bd89e0800000000000000
+      internalID: -1617433798525836932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd110b04b8829590800000000000000
+      internalID: -7668916908598419969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c22ec6ec8c50670800000000000000
+      internalID: 8504424260274629732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b15ca0dd8d3720800000000000000
+      internalID: 2827572068442288823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8c202d4d261090800000000000000
+      internalID: -8064208273484772633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f725997f840cfa0800000000000000
+      internalID: -5782541693277274214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e77d234d555c00800000000000000
+      internalID: 888719044582564349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c6259e5a531090800000000000000
+      internalID: -8065003145414655167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b931ad9da08df0800000000000000
+      internalID: -179953092568436511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48082ffc9e3ae0740800000000000000
+      internalID: 5120210050978316420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634b4e9d021c7ca0800000000000000
+      internalID: -6017915152374217879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff8a0784daff5b20800000000000000
+      internalID: 3125492457124040692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_89
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2486a859b0f7b890800000000000000
+      internalID: -7442215180359531477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e317718223a8fda0800000000000000
+      internalID: -5910795142327495711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c00a7b40d816e0800000000000000
+      internalID: -1866513022957073961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eb9225d89fb020800000000000000
+      internalID: 2359772770941526875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798117c07ab4f0ac0800000000000000
+      internalID: -3886804772557088617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b8c61a2baba510800000000000000
+      internalID: 1561529893073237795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc99251c4bb0b1d0800000000000000
+      internalID: -3336961388434580260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda35c764493b9ca0800000000000000
+      internalID: -6009146311834256675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f1812740153090800000000000000
+      internalID: -8055514460791376163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5938ca7c5f2320800000000000000
+      internalID: 2535346797647846581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_99
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23dc748f50e1efb0800000000000000
+      internalID: -4620165041856130257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ec5ac02eaed920800000000000000
+      internalID: 3017040256242081973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c160ebd19969c30800000000000000
+      internalID: 4365845241803447395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960440896a6cfd40800000000000000
+      internalID: 5619483436407588510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_103
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902d47006f8dfa60800000000000000
+      internalID: 7709475779730284690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972bcd5308b8e8120800000000000000
+      internalID: 2418023432720265849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1553f9765c7aa3610800000000000000
+      internalID: 1601777083772515665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a4b8cc1120f170800000000000000
+      internalID: 8210098528206495932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509485d4bb865f10800000000000000
+      internalID: 2258145871965491293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48264dc1734725180800000000000000
+      internalID: -9128105714670869884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26835622aba859410800000000000000
+      internalID: 1483244184334055522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11cb58c038ff990800000000000000
+      internalID: -7350011977038818841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cafa35f9c823a00800000000000000
+      internalID: 734804305146522739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d899bb5ccec2e8e0800000000000000
+      internalID: -1665541535066122028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e280930fde7bd0800000000000000
+      internalID: -2630419925935397316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43a5d66b72dd2c0800000000000000
+      internalID: -4405321196026317607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_115
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e06943c35df3390800000000000000
+      internalID: -7836310372044370382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_116
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac419c30f761f7e0800000000000000
+      internalID: -1733490100054963033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9697bcdea99e4f0800000000000000
+      internalID: -798937112769893950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad4c5c584244be0800000000000000
+      internalID: -1494029019412899150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a776ed8ca36310800000000000000
+      internalID: 1397150034871951886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ed10311f398ab0800000000000000
+      internalID: -5005400167791337134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f3fe30fd7c3eb0800000000000000
+      internalID: -4738774237098804916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fcd61d8dce6850800000000000000
+      internalID: 6372256528633493438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fd505c8444a2f0800000000000000
+      internalID: -962569050915997466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dfd6de914fbf490800000000000000
+      internalID: -7711301544747074192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63bda7ca3b5ceb10800000000000000
+      internalID: 2012083441544049516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d985417cd2492c0800000000000000
+      internalID: -4425862200735261425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_127
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c31d4b3eeda7350800000000000000
+      internalID: 6015365321879272469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_128
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e645447c8ec5b2b0800000000000000
+      internalID: -5569318261532309786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_129
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5273f189fe45e90800000000000000
+      internalID: -7037736881035467295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311e6a58962c5d500800000000000000
+      internalID: 420455898698670355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82d1a8dd8576800800000000000000
+      internalID: 605550383432804554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b1f71fa6199fa0800000000000000
+      internalID: -5793574504358628794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c2f31e1015d460800000000000000
+      internalID: 7265731295201903565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d102bcfcb8de850800000000000000
+      internalID: 6407931569400454542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d60a8c6faae131a0800000000000000
+      internalID: -6831421120583170345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc11d85e3ffa0e0800000000000000
+      internalID: -2256316721049515146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_137
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf164f3dc1c68590800000000000000
+      internalID: -7672231827905044560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_138
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfba7c50def896d0800000000000000
+      internalID: -2983354582274752552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a777b4068dc200800000000000000
+      internalID: 201964913117603664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea308ba30b7a4920800000000000000
+      internalID: 2975325759524059882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_141
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a3179781d06d70800000000000000
+      internalID: 9034451232790652392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_142
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d50ee69f115e30800000000000000
+      internalID: 4490405036564010942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d8a30cc5f989b0800000000000000
+      internalID: -5077256848299994141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b288701a72c7e0800000000000000
+      internalID: -1746699494306432860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c1c2862d6ea450800000000000000
+      internalID: 6101934557303521677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47393865cacb738c0800000000000000
+      internalID: -4019536694033017996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9882cf0f571370800000000000000
+      internalID: 8293201760118938461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85abba98d287d3d0800000000000000
+      internalID: -3181930744893430390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d8880cd3664220800000000000000
+      internalID: 2469771242346436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e8429379237040800000000000000
+      internalID: 4644101217101341081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902cd4e9f55306a0800000000000000
+      internalID: -6484244506708533104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_152
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6f09163252a0b30800000000000000
+      internalID: 4254253631895828197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a050badb8c386ef10800000000000000
+      internalID: 2298669558018016522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_154
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c4e43534c7ee6a0800000000000000
+      internalID: -6418055790354084821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_155
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa91a5c77d574a800800000000000000
+      internalID: 622752216848669098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a101812ef8f03260800000000000000
+      internalID: 7075428784966533539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fff10f9e0aad6e0800000000000000
+      internalID: -1811958973446750435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff53e91519dd3be0800000000000000
+      internalID: -1495800816565264387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1e370ff2485af0800000000000000
+      internalID: -407502103171425750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294b9114bc9398f0800000000000000
+      internalID: -534911633523521248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5c4f51a48fd7e0800000000000000
+      internalID: -1738525102518280853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375261f5a6d9794a0800000000000000
+      internalID: -6586622849818679949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_163
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54371dce119687220800000000000000
+      internalID: 2483850720203338565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229be2104fbd9f460800000000000000
+      internalID: 7276088514032089378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa4b0b90d5dc340800000000000000
+      internalID: 4885663466967575128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_166
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75431a79fef27a0800000000000000
+      internalID: -6399633110946523147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdddb38dd7c9b80800000000000000
+      internalID: -8386690038399902928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f782d71e9517500800000000000000
+      internalID: 392193467560263470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec06c6585f936e830800000000000000
+      internalID: 4100028237435658446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e5924274380380800000000000000
+      internalID: -9004889789579269943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df004cf3a76534400800000000000000
+      internalID: 307184282647134461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f62eb55c3e9da30800000000000000
+      internalID: 4240670960935661443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9001b8c7b1f703f00800000000000000
+      internalID: 1094514465481363465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_174
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939e522f2c9ce7b0800000000000000
+      internalID: -5193604544011005036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_175
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822c5a6b67734800800000000000000
+      internalID: 595450878972666506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_176
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e826757ab402a60800000000000000
+      internalID: 7647195349372800654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_177
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371178bd44f64cf0800000000000000
+      internalID: -268258513137887425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_178
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64fee904a8032d0800000000000000
+      internalID: -3300986516713552193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_179
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da8650bc41e3490800000000000000
+      internalID: -7764745845338493541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_180
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b08ef33ac680e0800000000000000
+      internalID: -2267903037672474675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_181
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531beb105b1dc520800000000000000
+      internalID: 2723863380508742492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83893feef683c3400800000000000000
+      internalID: 305180928155818040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf40a0a5cc965ee0800000000000000
+      internalID: -1272657472068235318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3c221fc8aaf6c0800000000000000
+      internalID: -4108786102705571094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdd15508b0d6060800000000000000
+      internalID: 6948222445914283998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9412d69c8fee12e0800000000000000
+      internalID: -2153020184731708261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b680b72496a160800000000000000
+      internalID: 7036474365999232778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f314c7ad39a49c90800000000000000
+      internalID: -7163915024966872074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de80f550226c820800000000000000
+      internalID: 2938073213370428806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90dbb041cf0f300800000000000000
+      internalID: 284003939550824909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_191
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11052e21b29972df0800000000000000
+      internalID: -205026847742603247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_192
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cc0f91d185d490800000000000000
+      internalID: -7722123248740285134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_193
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924a73ba3e9e4f80800000000000000
+      internalID: -8120379103145999716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_194
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238aaba8e1892610800000000000000
+      internalID: 1596950379192025897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe95ed01d929060800000000000000
+      internalID: 6958797070016310226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d11e16fe596cee80800000000000000
+      internalID: -8148021769243061800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc2de97d55cc2e80800000000000000
+      internalID: -8201963816080298832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053ee141db92cba0800000000000000
+      internalID: -6070118024685406963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b4a98eccab1fe0800000000000000
+      internalID: -1217189271201074904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319953f539b7d9630800000000000000
+      internalID: 3935437522279438611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631095a97ed522220800000000000000
+      internalID: 2459631595806064950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_202
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8b54a0b5991c50800000000000000
+      internalID: 6636500111811382120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_203
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d8dcf5bcf021c0800000000000000
+      internalID: -4530343366573370980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cb08db072634e0800000000000000
+      internalID: -2002370052496833048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_205
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc61157c7a00a30800000000000000
+      internalID: 4179524928700599093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_206
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86fccffd673a14e0800000000000000
+      internalID: -2010233338084919668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGrass_mown_207
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d733d361b3691380800000000000000
+      internalID: -9000052766788077612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
