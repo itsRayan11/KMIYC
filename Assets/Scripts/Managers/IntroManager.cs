@@ -16,7 +16,6 @@ public class IntroManager : MonoBehaviour
         yield return new WaitForSeconds(30f);
         transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(1f);
-        int index = Random.Range(2, 4);
-        SceneManager.LoadSceneAsync(index);
+        SceneManager.LoadSceneAsync(2);
     }
 }

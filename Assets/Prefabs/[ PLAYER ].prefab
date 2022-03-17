@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 706918c0b221a51439e8425add363a34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 30
+  playerSpeed: 35
   turningSpeed: 6
   kickOffForce: 30
   goalPoint:
